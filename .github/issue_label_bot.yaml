@@ -1,2 +1,5 @@
 label-alias:
   community buildup: 'cb'
+  bug: 'kind/bug'
+  feature_request: 'enhancement'
+  question: 'question'
